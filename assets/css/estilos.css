@@ -59,11 +59,11 @@ main {
 }
 
 .precio {
-  font-size: 24px;
+  font-size: 18px;
   padding-left: 120;
   padding-right: 120;
   padding-top: 10px;
-  padding-bottom: 40px;
+  padding-bottom: 10px;
 }
 
 #boton {
@@ -71,6 +71,16 @@ main {
   background-color: #25527b;
   font-size: 18px;
   color: white;
+  text-decoration: none;
+}
+
+#boton:hover {
+  background-color: #4d9bc2;
+  text-decoration: none;
+}
+
+#boton:focus {
+  background-color: #808080;
   text-decoration: none;
 }
 
