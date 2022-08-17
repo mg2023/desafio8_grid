@@ -108,35 +108,34 @@ main {
 }
 
 .imagen1 {
-  background-image: url("/assets/img/cafetera.jfif")
-
+  background-image: url("../img/cafetera.jfif")
 }
 
 .imagen2 {
-  background-image: url("/assets/img/parka.jfif");
+  background-image: url("../img/parka.jfif");
 }
 
 .imagen3 {
-  background-image: url("/assets/img/polo.jfif");
+  background-image: url("../img/polo.jfif");
 }
 
 .imagen4 {
-  background-image: url("/assets/img/converse.webp");
+  background-image: url("../img/converse.webp");
 }
 
 .imagen5 {
-  background-image: url("/assets/img/cama.webp");
+  background-image: url("../img/cama.webp");
 }
 
 .imagen6 {
-  background-image: url("/assets/img/secadora.webp");
+  background-image: url("../img/secadora.webp");
 }
 
 .imagen7 {
-  background-image: url("/assets/img/celular.webp");
+  background-image: url("../img/celular.webp");
 }
 .imagen8 {
-  background-image: url("/assets/img/silla.webp");
+  background-image: url("../img/silla.webp");
 }
 
 footer {
