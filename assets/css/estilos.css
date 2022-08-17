@@ -108,7 +108,8 @@ main {
 }
 
 .imagen1 {
-  background-image: url("/assets/img/cafetera.jfif");
+  background-image: url("/assets/img/cafetera.jfif")
+
 }
 
 .imagen2 {
