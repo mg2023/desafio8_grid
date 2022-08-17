@@ -23,8 +23,31 @@ aside {
   font-size: 18px;
 }
 
+#listado li a{
+    color: black;
+}
+
 #listado li {
-  padding-bottom: 5px;
+  line-height: 1.5;
+}
+
+#listado a:link{
+    text-decoration: none; 
+}
+
+#listado a:hover {
+    color: #4d9bc2;
+}
+#listado a:visited {    
+    text-decoration: none;
+}
+
+#listado a:active {    
+    text-decoration: none;
+}
+
+#listado span {
+    color: gray;
 }
 
 main {
